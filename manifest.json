@@ -1,0 +1,20 @@
+{
+
+  "manifest_version": 2,
+  "name": "animentum",
+  "version": "1.0",
+
+  "description": "Add some anime vibes to your ENT!",
+
+  "icons": {
+    "48": "icons/border-48.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://ent.umontpellier.fr/ProlongationENT-home/*"],
+      "js": ["animentum.js"]
+    }
+  ]
+
+}

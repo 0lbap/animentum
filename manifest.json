@@ -7,7 +7,7 @@
   "description": "Add some anime vibes to your ENT!",
 
   "icons": {
-    "48": "icons/border-48.png"
+    "48": "icons/logo-48.png"
   },
 
   "content_scripts": [

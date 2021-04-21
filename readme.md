@@ -1,9 +1,9 @@
 # animentum
 ![Icon](https://github.com/0lbap/animentum/blob/758711292aefd5f60fd5adcd4a8c264d7ef2fd40/icons/logo-48.png)
 
-animentum is a web extension that modify the way your ENT looks and enhance it by changing the front banner to a random anime banner!
+**animentum** est une extension web qui modifie l'apparence de votre ENT et l'améliore en changeant la bannière en une bannière d'un anime aléatoire, parmis 1556 bannières disponnibles !
 
-Current version : 0.1 (BETA)
+Version actuelle : 0.1 (BETA)
 
 ## Installation de l'extension sur Firefox :
 

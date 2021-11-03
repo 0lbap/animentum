@@ -1,7 +1,7 @@
 # animentum
 ![Icon](https://github.com/0lbap/animentum/blob/758711292aefd5f60fd5adcd4a8c264d7ef2fd40/icons/logo-48.png)
 
-**animentum** est une extension web qui modifie l'apparence de votre ENT et l'améliore en changeant la bannière en une bannière d'un anime aléatoire, parmis 1556 bannières disponnibles !
+**animentum** est une extension web qui modifie l'apparence de votre ENT de l'UM et l'améliore en changeant la bannière en une bannière d'un anime aléatoire, parmis 1556 bannières disponnibles !
 
 Version actuelle : 0.1 (BETA)
 
